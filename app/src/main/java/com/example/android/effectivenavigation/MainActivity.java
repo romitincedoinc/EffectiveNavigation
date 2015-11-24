@@ -49,7 +49,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//................yo yoy yoy yo yoy yo yoy yoy p yo yo yo yo yo yo yo
         // Create the adapter that will return a fragment for each of the three primary sections
         // of the app.
         mAppSectionsPagerAdapter = new AppSectionsPagerAdapter(getSupportFragmentManager());
