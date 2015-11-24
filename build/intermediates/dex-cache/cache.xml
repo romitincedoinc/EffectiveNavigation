@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\New folder\androidsdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3fe75433da602500cc71fcc1c46e5550291dd45d">
+        <dex dex="D:\MSE\EffectiveNavigation\app\build\intermediates\pre-dexed\debug\support-v4-13.0.0-62f279d4d50a3aec7f43eaccccbacd2aa460d594.jar" />
+    </item>
+
+</items>
